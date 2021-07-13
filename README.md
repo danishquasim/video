@@ -1,5 +1,5 @@
-# Conference Call
-A conference call implementation using WebRTC, Socket.io and Node.js.
+# MEET Call
+A Meet call implementation using WebRTC, Socket.io and Node.js.
 
 
 # Getting Started
@@ -20,5 +20,4 @@ A conference call implementation using WebRTC, Socket.io and Node.js.
 - Video Recording
 
  
-# Demo
 You can test at https://video-chat-danish.herokuapp.com/
